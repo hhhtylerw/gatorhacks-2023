@@ -6,7 +6,7 @@
     
         <div>
 
-            <iframe title="chatbot" src="https://ufl.instructure.com/" frameborder="0"></iframe>
+            <iframe title="chatbot" src="http://localhost:8501/" frameborder="0"></iframe>
         </div>
         <!-- <iframe title="chatbot" src="https://ufl.instructure.com/" frameborder="0"></iframe> -->
 
