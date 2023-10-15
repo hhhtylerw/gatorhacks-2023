@@ -2,7 +2,7 @@
 <div class="container" style="min-height 500px;">
     
     <article>
-        <h1>Verizon Apps & Services Assistant</h1>
+        <h1>Verizon Vera Assistant</h1>
     
         <div>
 
